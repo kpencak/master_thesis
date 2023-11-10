@@ -1,0 +1,24 @@
+.form {
+  align: left;
+  text-align: left;
+}
+
+.divText {
+  padding: 10px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+form .row {
+  line-height: unset;
+  min-height: unset;
+}
+
+.formUser > div {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+label {
+  padding-top:10px;
+}
